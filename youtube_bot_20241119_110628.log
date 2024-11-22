@@ -1,0 +1,11 @@
+2024-11-19 11:06:28,431 - INFO - ====== WebDriver manager ======
+2024-11-19 11:06:28,610 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:06:28,660 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:06:28,699 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 11:06:30,090 - INFO - Starting to watch video: https://www.youtube.com/watch?v=your_video_id
+2024-11-19 11:06:34,103 - INFO - Scrolled: 291px
+2024-11-19 11:07:06,908 - INFO - Scrolled: 140px
+2024-11-19 11:07:39,613 - INFO - Scrolled: 483px
+2024-11-19 11:07:51,235 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105e055e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/cbd10c01c66a4b89c989e5706782bd29
+2024-11-19 11:07:51,236 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105e05b20>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/cbd10c01c66a4b89c989e5706782bd29
+2024-11-19 11:07:51,237 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105e05c70>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/cbd10c01c66a4b89c989e5706782bd29

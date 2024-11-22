@@ -1,0 +1,62 @@
+2024-11-22 10:19:54,857 - INFO - ====== WebDriver manager ======
+2024-11-22 10:20:00,142 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-22 10:20:00,206 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-22 10:20:00,243 - INFO - There is no [mac64] chromedriver "131.0.6778.85" for browser google-chrome "131.0.6778" in cache
+2024-11-22 10:20:00,246 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-22 10:20:00,636 - INFO - WebDriver version 131.0.6778.85 selected
+2024-11-22 10:20:00,637 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.85/mac-arm64/chromedriver-mac-arm64.zip
+2024-11-22 10:20:00,637 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.85/mac-arm64/chromedriver-mac-arm64.zip
+2024-11-22 10:20:00,782 - INFO - Driver downloading response is 200
+2024-11-22 10:20:01,108 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-22 10:20:01,230 - INFO - Driver has been saved in cache [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.85]
+2024-11-22 10:20:02,941 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-22 10:20:06,821 - INFO - Scrolled: 474px
+2024-11-22 10:20:09,089 - INFO - Toggled fullscreen
+2024-11-22 10:20:45,489 - INFO - Scrolled: 480px
+2024-11-22 10:21:58,373 - INFO - Scrolled: 438px
+2024-11-22 10:22:37,230 - INFO - Session logged: {'timestamp': '2024-11-22 10:22:37', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 122, 'success': True, 'error': None}
+2024-11-22 10:23:16,415 - INFO - ====== WebDriver manager ======
+2024-11-22 10:23:16,602 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-22 10:23:16,655 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-22 10:23:16,705 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.85/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-22 10:23:18,043 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-22 10:23:20,637 - INFO - Scrolled: 373px
+2024-11-22 10:24:23,475 - INFO - Toggled fullscreen
+2024-11-22 10:25:00,681 - INFO - Scrolled: 158px
+2024-11-22 10:25:03,057 - INFO - Toggled fullscreen
+2024-11-22 10:25:38,861 - INFO - Scrolled: 308px
+2024-11-22 10:26:41,297 - INFO - Scrolled: 219px
+2024-11-22 10:27:00,441 - INFO - Session logged: {'timestamp': '2024-11-22 10:27:00', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 197, 'success': True, 'error': None}
+2024-11-22 10:28:00,632 - INFO - ====== WebDriver manager ======
+2024-11-22 10:28:00,772 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-22 10:28:00,815 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-22 10:28:00,858 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.85/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-22 10:28:01,603 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-22 10:28:04,044 - INFO - Scrolled: 269px
+2024-11-22 10:28:41,662 - INFO - Scrolled: 300px
+2024-11-22 10:29:18,387 - INFO - Scrolled: 459px
+2024-11-22 10:29:50,548 - INFO - Scrolled: 107px
+2024-11-22 10:30:28,759 - INFO - Scrolled: 457px
+2024-11-22 10:31:06,048 - INFO - Scrolled: 359px
+2024-11-22 10:31:42,557 - INFO - Scrolled: 382px
+2024-11-22 10:32:15,083 - INFO - Scrolled: 231px
+2024-11-22 10:32:47,859 - INFO - Scrolled: 110px
+2024-11-22 10:33:20,936 - INFO - Scrolled: 492px
+2024-11-22 10:33:51,271 - INFO - Session logged: {'timestamp': '2024-11-22 10:33:51', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 292, 'success': True, 'error': None}
+2024-11-22 10:34:34,495 - INFO - ====== WebDriver manager ======
+2024-11-22 10:34:34,631 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-22 10:34:34,672 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-22 10:34:34,711 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.85/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-22 10:34:35,473 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-22 10:35:43,621 - INFO - Scrolled: 374px
+2024-11-22 10:36:16,008 - INFO - Scrolled: 118px
+2024-11-22 10:36:47,220 - INFO - Scrolled: 194px
+2024-11-22 10:38:00,332 - INFO - Scrolled: 196px
+2024-11-22 10:38:32,405 - INFO - Scrolled: 140px
+2024-11-22 10:39:04,096 - INFO - Scrolled: 162px
+2024-11-22 10:39:04,828 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1016f59a0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/49d3a082f37f319ccf8781dc6af20a1e
+2024-11-22 10:39:04,829 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10165a100>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/49d3a082f37f319ccf8781dc6af20a1e
+2024-11-22 10:39:04,829 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10165a9a0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/49d3a082f37f319ccf8781dc6af20a1e
+2024-11-22 10:39:04,833 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1068e60a0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/49d3a082f37f319ccf8781dc6af20a1e
+2024-11-22 10:39:04,834 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1068e6220>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/49d3a082f37f319ccf8781dc6af20a1e
+2024-11-22 10:39:04,835 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1068e6370>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/49d3a082f37f319ccf8781dc6af20a1e

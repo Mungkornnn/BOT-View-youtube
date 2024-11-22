@@ -1,0 +1,880 @@
+2024-11-19 11:28:58,140 - INFO - ====== WebDriver manager ======
+2024-11-19 11:28:58,272 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:28:58,323 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:28:58,368 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 11:28:59,580 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 11:29:39,620 - INFO - Toggled fullscreen
+2024-11-19 11:30:18,238 - INFO - Scrolled: 249px
+2024-11-19 11:30:50,727 - INFO - Scrolled: 157px
+2024-11-19 11:31:22,936 - INFO - Scrolled: 285px
+2024-11-19 11:31:56,666 - INFO - Scrolled: 474px
+2024-11-19 11:32:26,943 - INFO - Session logged: {'timestamp': '2024-11-19 11:32:26', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 173, 'success': True, 'error': None}
+2024-11-19 11:33:16,097 - INFO - ====== WebDriver manager ======
+2024-11-19 11:33:16,237 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:33:16,286 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:33:16,332 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 11:33:17,431 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 11:33:19,238 - INFO - Scrolled: 380px
+2024-11-19 11:33:21,928 - INFO - Toggled fullscreen
+2024-11-19 11:33:59,730 - INFO - Scrolled: 251px
+2024-11-19 11:34:37,893 - INFO - Scrolled: 287px
+2024-11-19 11:35:39,182 - INFO - Scrolled: 123px
+2024-11-19 11:36:40,546 - INFO - Session logged: {'timestamp': '2024-11-19 11:36:40', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 167, 'success': True, 'error': None}
+2024-11-19 11:37:32,709 - INFO - ====== WebDriver manager ======
+2024-11-19 11:37:32,904 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:37:32,955 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:37:32,996 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 11:37:34,503 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 11:37:37,721 - INFO - Scrolled: 183px
+2024-11-19 11:37:39,935 - INFO - Toggled fullscreen
+2024-11-19 11:38:16,012 - INFO - Scrolled: 174px
+2024-11-19 11:38:47,731 - INFO - Toggled fullscreen
+2024-11-19 11:39:29,099 - INFO - Scrolled: 218px
+2024-11-19 11:39:31,396 - INFO - Toggled fullscreen
+2024-11-19 11:41:13,951 - INFO - Scrolled: 470px
+2024-11-19 11:41:41,796 - INFO - Session logged: {'timestamp': '2024-11-19 11:41:41', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 201, 'success': True, 'error': None}
+2024-11-19 11:42:27,990 - INFO - ====== WebDriver manager ======
+2024-11-19 11:42:28,179 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:42:28,229 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:42:28,280 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 11:42:29,768 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 11:42:32,971 - INFO - Scrolled: 280px
+2024-11-19 11:43:10,087 - INFO - Scrolled: 278px
+2024-11-19 11:43:42,157 - INFO - Scrolled: 264px
+2024-11-19 11:44:19,692 - INFO - Scrolled: 126px
+2024-11-19 11:44:51,139 - INFO - Scrolled: 296px
+2024-11-19 11:45:30,443 - INFO - Scrolled: 269px
+2024-11-19 11:45:49,948 - INFO - Session logged: {'timestamp': '2024-11-19 11:45:49', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 167, 'success': True, 'error': None}
+2024-11-19 11:46:49,095 - INFO - ====== WebDriver manager ======
+2024-11-19 11:46:49,234 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:46:49,290 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:46:49,330 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 11:46:50,115 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 11:46:53,297 - INFO - Scrolled: 181px
+2024-11-19 11:47:30,441 - INFO - Toggled fullscreen
+2024-11-19 11:48:47,022 - INFO - Scrolled: 425px
+2024-11-19 11:49:24,348 - INFO - Scrolled: 170px
+2024-11-19 11:49:47,974 - INFO - Session logged: {'timestamp': '2024-11-19 11:49:47', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 137, 'success': True, 'error': None}
+2024-11-19 11:50:40,114 - INFO - ====== WebDriver manager ======
+2024-11-19 11:50:40,268 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:50:40,310 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:50:40,350 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 11:50:41,704 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 11:51:15,925 - INFO - Scrolled: 283px
+2024-11-19 11:53:03,707 - INFO - Scrolled: 192px
+2024-11-19 11:53:40,566 - INFO - Scrolled: 343px
+2024-11-19 11:54:14,396 - INFO - Scrolled: 121px
+2024-11-19 11:54:45,721 - INFO - Scrolled: 315px
+2024-11-19 11:55:59,154 - INFO - Scrolled: 400px
+2024-11-19 11:56:21,017 - INFO - Session logged: {'timestamp': '2024-11-19 11:56:21', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 285, 'success': True, 'error': None}
+2024-11-19 11:57:19,153 - INFO - ====== WebDriver manager ======
+2024-11-19 11:57:19,298 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:57:19,360 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:57:19,400 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 11:57:20,211 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 11:57:24,500 - INFO - Scrolled: 288px
+2024-11-19 11:57:57,314 - INFO - Scrolled: 304px
+2024-11-19 11:58:59,924 - INFO - Scrolled: 107px
+2024-11-19 11:59:32,430 - INFO - Scrolled: 499px
+2024-11-19 12:00:41,835 - INFO - Scrolled: 356px
+2024-11-19 12:01:20,017 - INFO - Scrolled: 456px
+2024-11-19 12:01:52,514 - INFO - Scrolled: 436px
+2024-11-19 12:02:24,822 - INFO - Scrolled: 176px
+2024-11-19 12:02:39,285 - INFO - Session logged: {'timestamp': '2024-11-19 12:02:39', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 281, 'success': True, 'error': None}
+2024-11-19 12:03:34,488 - INFO - ====== WebDriver manager ======
+2024-11-19 12:03:34,636 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:03:34,677 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:03:34,717 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 12:03:36,096 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 12:04:13,928 - INFO - Scrolled: 132px
+2024-11-19 12:04:51,232 - INFO - Scrolled: 191px
+2024-11-19 12:05:54,423 - INFO - Scrolled: 416px
+2024-11-19 12:06:38,552 - INFO - Session logged: {'timestamp': '2024-11-19 12:06:38', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 155, 'success': True, 'error': None}
+2024-11-19 12:07:31,696 - INFO - ====== WebDriver manager ======
+2024-11-19 12:07:31,838 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:07:31,880 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:07:31,926 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 12:07:32,699 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 12:07:35,163 - INFO - Scrolled: 129px
+2024-11-19 12:08:12,577 - INFO - Scrolled: 226px
+2024-11-19 12:08:45,594 - INFO - Scrolled: 257px
+2024-11-19 12:09:23,269 - INFO - Scrolled: 100px
+2024-11-19 12:09:25,045 - INFO - Toggled fullscreen
+2024-11-19 12:10:04,913 - INFO - Toggled fullscreen
+2024-11-19 12:10:46,872 - INFO - Scrolled: 202px
+2024-11-19 12:11:00,846 - INFO - Session logged: {'timestamp': '2024-11-19 12:11:00', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 161, 'success': True, 'error': None}
+2024-11-19 12:11:50,021 - INFO - ====== WebDriver manager ======
+2024-11-19 12:11:50,161 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:11:50,205 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:11:50,247 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 12:11:51,025 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 12:11:53,964 - INFO - Scrolled: 472px
+2024-11-19 12:11:56,441 - INFO - Toggled fullscreen
+2024-11-19 12:12:34,009 - INFO - Scrolled: 344px
+2024-11-19 12:12:36,258 - INFO - Toggled fullscreen
+2024-11-19 12:13:18,146 - INFO - Scrolled: 279px
+2024-11-19 12:13:49,958 - INFO - Scrolled: 183px
+2024-11-19 12:13:51,384 - INFO - Toggled fullscreen
+2024-11-19 12:14:36,059 - INFO - Scrolled: 254px
+2024-11-19 12:14:37,912 - INFO - Toggled fullscreen
+2024-11-19 12:15:17,446 - INFO - Scrolled: 420px
+2024-11-19 12:15:25,321 - INFO - Session logged: {'timestamp': '2024-11-19 12:15:25', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 151, 'success': True, 'error': None}
+2024-11-19 12:16:05,517 - INFO - ====== WebDriver manager ======
+2024-11-19 12:16:05,734 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:16:05,783 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:16:05,821 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 12:16:07,375 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 12:16:11,040 - INFO - Toggled fullscreen
+2024-11-19 12:16:51,151 - INFO - Scrolled: 293px
+2024-11-19 12:16:53,963 - INFO - Toggled fullscreen
+2024-11-19 12:17:32,536 - INFO - Scrolled: 197px
+2024-11-19 12:19:15,369 - INFO - Scrolled: 259px
+2024-11-19 12:19:17,105 - INFO - Toggled fullscreen
+2024-11-19 12:19:57,200 - INFO - Scrolled: 382px
+2024-11-19 12:20:29,427 - INFO - Scrolled: 394px
+2024-11-19 12:21:02,407 - INFO - Toggled fullscreen
+2024-11-19 12:21:13,724 - INFO - Session logged: {'timestamp': '2024-11-19 12:21:13', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 245, 'success': True, 'error': None}
+2024-11-19 12:21:45,897 - INFO - ====== WebDriver manager ======
+2024-11-19 12:21:46,051 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:21:46,104 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:21:46,148 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 12:21:47,421 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 12:21:51,413 - INFO - Scrolled: 428px
+2024-11-19 12:22:28,382 - INFO - Scrolled: 357px
+2024-11-19 12:23:36,183 - INFO - Scrolled: 473px
+2024-11-19 12:24:14,274 - INFO - Scrolled: 433px
+2024-11-19 12:25:15,397 - INFO - Session logged: {'timestamp': '2024-11-19 12:25:15', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 173, 'success': True, 'error': None}
+2024-11-19 12:25:47,533 - INFO - ====== WebDriver manager ======
+2024-11-19 12:25:47,671 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:25:47,719 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:25:47,758 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 12:25:48,509 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 12:25:51,299 - INFO - Scrolled: 424px
+2024-11-19 12:26:24,500 - INFO - Scrolled: 383px
+2024-11-19 12:26:26,312 - INFO - Toggled fullscreen
+2024-11-19 12:27:01,957 - INFO - Scrolled: 226px
+2024-11-19 12:27:40,035 - INFO - Scrolled: 279px
+2024-11-19 12:27:43,133 - INFO - Toggled fullscreen
+2024-11-19 12:28:27,442 - INFO - Scrolled: 188px
+2024-11-19 12:29:03,877 - INFO - Scrolled: 445px
+2024-11-19 12:29:37,962 - INFO - Scrolled: 464px
+2024-11-19 12:30:09,826 - INFO - Session logged: {'timestamp': '2024-11-19 12:30:09', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 209, 'success': True, 'error': None}
+2024-11-19 12:30:43,953 - INFO - ====== WebDriver manager ======
+2024-11-19 12:30:44,092 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:30:44,141 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:30:44,189 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 12:30:45,129 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 12:30:47,633 - INFO - Scrolled: 103px
+2024-11-19 12:31:19,624 - INFO - Scrolled: 456px
+2024-11-19 12:31:57,608 - INFO - Scrolled: 481px
+2024-11-19 12:33:04,695 - INFO - Scrolled: 499px
+2024-11-19 12:33:35,949 - INFO - Scrolled: 146px
+2024-11-19 12:34:12,425 - INFO - Scrolled: 499px
+2024-11-19 12:34:38,292 - INFO - Session logged: {'timestamp': '2024-11-19 12:34:38', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 199, 'success': True, 'error': None}
+2024-11-19 12:35:21,416 - INFO - ====== WebDriver manager ======
+2024-11-19 12:35:21,555 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:35:21,594 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:35:21,634 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 12:35:22,393 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 12:35:24,854 - INFO - Scrolled: 376px
+2024-11-19 12:35:26,550 - INFO - Toggled fullscreen
+2024-11-19 12:36:09,527 - INFO - Scrolled: 387px
+2024-11-19 12:36:40,964 - INFO - Scrolled: 482px
+2024-11-19 12:37:18,028 - INFO - Scrolled: 365px
+2024-11-19 12:37:49,607 - INFO - Scrolled: 399px
+2024-11-19 12:38:21,754 - INFO - Scrolled: 364px
+2024-11-19 12:38:58,516 - INFO - Scrolled: 160px
+2024-11-19 12:39:29,910 - INFO - Scrolled: 241px
+2024-11-19 12:40:34,463 - INFO - Session logged: {'timestamp': '2024-11-19 12:40:34', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 267, 'success': True, 'error': None}
+2024-11-19 12:41:16,615 - INFO - ====== WebDriver manager ======
+2024-11-19 12:41:16,752 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:41:16,796 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:41:16,836 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 12:41:17,802 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 12:41:20,433 - INFO - Scrolled: 188px
+2024-11-19 12:41:57,584 - INFO - Scrolled: 320px
+2024-11-19 12:42:00,137 - INFO - Toggled fullscreen
+2024-11-19 12:42:36,462 - INFO - Scrolled: 434px
+2024-11-19 12:43:08,834 - INFO - Scrolled: 219px
+2024-11-19 12:44:11,656 - INFO - Scrolled: 405px
+2024-11-19 12:44:49,700 - INFO - Scrolled: 291px
+2024-11-19 12:44:59,671 - INFO - Session logged: {'timestamp': '2024-11-19 12:44:59', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 182, 'success': True, 'error': None}
+2024-11-19 12:45:44,794 - INFO - ====== WebDriver manager ======
+2024-11-19 12:45:44,933 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:45:44,972 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:45:45,013 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 12:45:45,796 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 12:45:47,518 - INFO - Scrolled: 291px
+2024-11-19 12:45:49,036 - INFO - Toggled fullscreen
+2024-11-19 12:46:28,677 - INFO - Toggled fullscreen
+2024-11-19 12:47:08,135 - INFO - Scrolled: 458px
+2024-11-19 12:47:10,730 - INFO - Toggled fullscreen
+2024-11-19 12:47:52,203 - INFO - Scrolled: 160px
+2024-11-19 12:48:53,787 - INFO - Session logged: {'timestamp': '2024-11-19 12:48:53', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 145, 'success': True, 'error': None}
+2024-11-19 12:49:33,940 - INFO - ====== WebDriver manager ======
+2024-11-19 12:49:34,125 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:49:34,167 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:49:34,206 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 12:49:35,323 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 12:49:38,720 - INFO - Scrolled: 236px
+2024-11-19 12:49:40,622 - INFO - Toggled fullscreen
+2024-11-19 12:50:17,976 - INFO - Scrolled: 176px
+2024-11-19 12:50:50,504 - INFO - Toggled fullscreen
+2024-11-19 12:51:31,313 - INFO - Scrolled: 359px
+2024-11-19 12:51:34,010 - INFO - Toggled fullscreen
+2024-11-19 12:52:14,000 - INFO - Scrolled: 368px
+2024-11-19 12:52:45,324 - INFO - Scrolled: 147px
+2024-11-19 12:53:46,980 - INFO - Scrolled: 225px
+2024-11-19 12:54:20,668 - INFO - Scrolled: 471px
+2024-11-19 12:54:53,303 - INFO - Session logged: {'timestamp': '2024-11-19 12:54:53', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 266, 'success': True, 'error': None}
+2024-11-19 12:55:34,482 - INFO - ====== WebDriver manager ======
+2024-11-19 12:55:34,631 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:55:34,684 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:55:34,723 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 12:55:35,925 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 12:55:39,874 - INFO - Scrolled: 157px
+2024-11-19 12:55:42,547 - INFO - Toggled fullscreen
+2024-11-19 12:56:20,320 - INFO - Scrolled: 195px
+2024-11-19 12:56:53,467 - INFO - Scrolled: 339px
+2024-11-19 12:57:26,686 - INFO - Toggled fullscreen
+2024-11-19 12:58:29,993 - INFO - Session logged: {'timestamp': '2024-11-19 12:58:29', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 141, 'success': True, 'error': None}
+2024-11-19 12:59:07,139 - INFO - ====== WebDriver manager ======
+2024-11-19 12:59:07,324 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:59:07,372 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 12:59:07,423 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 12:59:08,399 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 12:59:10,087 - INFO - Scrolled: 249px
+2024-11-19 13:00:18,477 - INFO - Scrolled: 350px
+2024-11-19 13:00:55,221 - INFO - Scrolled: 352px
+2024-11-19 13:02:03,516 - INFO - Scrolled: 130px
+2024-11-19 13:02:41,453 - INFO - Scrolled: 331px
+2024-11-19 13:03:19,070 - INFO - Scrolled: 231px
+2024-11-19 13:03:48,540 - INFO - Session logged: {'timestamp': '2024-11-19 13:03:48', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 231, 'success': True, 'error': None}
+2024-11-19 13:04:36,673 - INFO - ====== WebDriver manager ======
+2024-11-19 13:04:36,811 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:04:36,866 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:04:36,902 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 13:04:37,670 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 13:05:10,439 - INFO - Scrolled: 226px
+2024-11-19 13:05:42,698 - INFO - Scrolled: 156px
+2024-11-19 13:05:44,732 - INFO - Toggled fullscreen
+2024-11-19 13:06:54,050 - INFO - Toggled fullscreen
+2024-11-19 13:07:35,752 - INFO - Scrolled: 164px
+2024-11-19 13:08:12,326 - INFO - Scrolled: 462px
+2024-11-19 13:08:45,190 - INFO - Scrolled: 145px
+2024-11-19 13:09:49,285 - INFO - Scrolled: 344px
+2024-11-19 13:10:04,396 - INFO - Session logged: {'timestamp': '2024-11-19 13:10:04', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 283, 'success': True, 'error': None}
+2024-11-19 13:11:01,562 - INFO - ====== WebDriver manager ======
+2024-11-19 13:11:01,706 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:11:01,755 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:11:01,795 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 13:11:02,605 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 13:11:05,121 - INFO - Scrolled: 356px
+2024-11-19 13:11:07,079 - INFO - Toggled fullscreen
+2024-11-19 13:11:42,523 - INFO - Scrolled: 431px
+2024-11-19 13:12:15,549 - INFO - Scrolled: 109px
+2024-11-19 13:12:47,611 - INFO - Scrolled: 126px
+2024-11-19 13:13:24,990 - INFO - Toggled fullscreen
+2024-11-19 13:14:03,317 - INFO - Scrolled: 133px
+2024-11-19 13:14:10,237 - INFO - Session logged: {'timestamp': '2024-11-19 13:14:10', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 154, 'success': True, 'error': None}
+2024-11-19 13:15:06,423 - INFO - ====== WebDriver manager ======
+2024-11-19 13:15:06,563 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:15:06,609 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:15:06,652 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 13:15:07,762 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 13:15:10,844 - INFO - Scrolled: 385px
+2024-11-19 13:16:58,425 - INFO - Scrolled: 489px
+2024-11-19 13:17:35,965 - INFO - Scrolled: 152px
+2024-11-19 13:18:08,322 - INFO - Scrolled: 305px
+2024-11-19 13:18:45,261 - INFO - Scrolled: 333px
+2024-11-19 13:19:48,629 - INFO - Scrolled: 426px
+2024-11-19 13:20:34,526 - INFO - Session logged: {'timestamp': '2024-11-19 13:20:34', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 283, 'success': True, 'error': None}
+2024-11-19 13:21:11,688 - INFO - ====== WebDriver manager ======
+2024-11-19 13:21:11,831 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:21:11,881 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:21:11,960 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 13:21:12,931 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 13:21:45,376 - INFO - Scrolled: 350px
+2024-11-19 13:22:18,139 - INFO - Toggled fullscreen
+2024-11-19 13:23:01,816 - INFO - Scrolled: 201px
+2024-11-19 13:24:08,349 - INFO - Scrolled: 388px
+2024-11-19 13:24:37,196 - INFO - Session logged: {'timestamp': '2024-11-19 13:24:37', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 177, 'success': True, 'error': None}
+2024-11-19 13:25:12,320 - INFO - ====== WebDriver manager ======
+2024-11-19 13:25:12,463 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:25:12,511 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:25:12,560 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 13:25:13,312 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 13:25:14,766 - INFO - Scrolled: 233px
+2024-11-19 13:25:47,530 - INFO - Toggled fullscreen
+2024-11-19 13:26:24,664 - INFO - Scrolled: 399px
+2024-11-19 13:26:26,596 - INFO - Toggled fullscreen
+2024-11-19 13:28:08,847 - INFO - Scrolled: 442px
+2024-11-19 13:28:11,935 - INFO - Toggled fullscreen
+2024-11-19 13:28:55,309 - INFO - Toggled fullscreen
+2024-11-19 13:29:37,010 - INFO - Scrolled: 325px
+2024-11-19 13:30:08,749 - INFO - Scrolled: 278px
+2024-11-19 13:30:47,255 - INFO - Scrolled: 486px
+2024-11-19 13:31:01,800 - INFO - Session logged: {'timestamp': '2024-11-19 13:31:01', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 278, 'success': True, 'error': None}
+2024-11-19 13:31:43,008 - INFO - ====== WebDriver manager ======
+2024-11-19 13:31:43,152 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:31:43,196 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:31:43,239 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 13:31:44,277 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 13:31:48,240 - INFO - Scrolled: 333px
+2024-11-19 13:32:19,992 - INFO - Toggled fullscreen
+2024-11-19 13:33:02,860 - INFO - Toggled fullscreen
+2024-11-19 13:33:39,786 - INFO - Scrolled: 316px
+2024-11-19 13:33:41,308 - INFO - Toggled fullscreen
+2024-11-19 13:34:31,115 - INFO - Session logged: {'timestamp': '2024-11-19 13:34:31', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 126, 'success': True, 'error': None}
+2024-11-19 13:35:24,263 - INFO - ====== WebDriver manager ======
+2024-11-19 13:35:24,405 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:35:24,450 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:35:24,489 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 13:35:25,433 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 13:35:27,913 - INFO - Scrolled: 316px
+2024-11-19 13:36:29,952 - INFO - Scrolled: 126px
+2024-11-19 13:37:01,974 - INFO - Scrolled: 230px
+2024-11-19 13:37:33,776 - INFO - Scrolled: 306px
+2024-11-19 13:38:06,222 - INFO - Scrolled: 367px
+2024-11-19 13:39:13,656 - INFO - Scrolled: 260px
+2024-11-19 13:39:26,489 - INFO - Session logged: {'timestamp': '2024-11-19 13:39:26', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 220, 'success': True, 'error': None}
+2024-11-19 13:40:13,635 - INFO - ====== WebDriver manager ======
+2024-11-19 13:40:13,775 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:40:13,822 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:40:13,864 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 13:40:14,762 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 13:40:17,276 - INFO - Scrolled: 334px
+2024-11-19 13:40:20,199 - INFO - Toggled fullscreen
+2024-11-19 13:40:57,743 - INFO - Scrolled: 132px
+2024-11-19 13:40:59,232 - INFO - Toggled fullscreen
+2024-11-19 13:41:43,313 - INFO - Scrolled: 380px
+2024-11-19 13:41:46,293 - INFO - Toggled fullscreen
+2024-11-19 13:42:57,383 - INFO - Scrolled: 214px
+2024-11-19 13:43:11,735 - INFO - Session logged: {'timestamp': '2024-11-19 13:43:11', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 127, 'success': True, 'error': None}
+2024-11-19 13:43:59,890 - INFO - ====== WebDriver manager ======
+2024-11-19 13:44:00,042 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:44:00,093 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:44:00,142 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 13:44:01,326 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 13:44:03,967 - INFO - Toggled fullscreen
+2024-11-19 13:44:45,853 - INFO - Scrolled: 290px
+2024-11-19 13:45:23,292 - INFO - Toggled fullscreen
+2024-11-19 13:47:00,722 - INFO - Scrolled: 261px
+2024-11-19 13:47:38,620 - INFO - Scrolled: 200px
+2024-11-19 13:48:48,334 - INFO - Scrolled: 413px
+2024-11-19 13:49:08,162 - INFO - Session logged: {'timestamp': '2024-11-19 13:49:08', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 256, 'success': True, 'error': None}
+2024-11-19 13:49:55,307 - INFO - ====== WebDriver manager ======
+2024-11-19 13:49:55,447 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:49:55,493 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:49:55,533 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 13:49:56,288 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 13:50:00,337 - INFO - Scrolled: 277px
+2024-11-19 13:50:37,799 - INFO - Scrolled: 385px
+2024-11-19 13:51:10,965 - INFO - Scrolled: 207px
+2024-11-19 13:52:25,653 - INFO - Scrolled: 101px
+2024-11-19 13:52:57,621 - INFO - Scrolled: 446px
+2024-11-19 13:53:13,195 - INFO - Session logged: {'timestamp': '2024-11-19 13:53:13', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 158, 'success': True, 'error': None}
+2024-11-19 13:54:04,332 - INFO - ====== WebDriver manager ======
+2024-11-19 13:54:04,476 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:54:04,521 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 13:54:04,563 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 13:54:05,508 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 13:54:08,037 - INFO - Scrolled: 400px
+2024-11-19 13:54:09,570 - INFO - Toggled fullscreen
+2024-11-19 13:54:52,109 - INFO - Scrolled: 314px
+2024-11-19 13:54:53,453 - INFO - Toggled fullscreen
+2024-11-19 13:55:35,066 - INFO - Scrolled: 312px
+2024-11-19 13:56:12,809 - INFO - Scrolled: 122px
+2024-11-19 13:56:49,217 - INFO - Scrolled: 262px
+2024-11-19 13:56:52,169 - INFO - Toggled fullscreen
+2024-11-19 13:57:27,556 - INFO - Scrolled: 213px
+2024-11-19 13:58:00,641 - INFO - Scrolled: 211px
+2024-11-19 13:58:01,948 - INFO - Toggled fullscreen
+2024-11-19 13:59:21,587 - INFO - Scrolled: 140px
+2024-11-19 13:59:53,004 - INFO - Scrolled: 265px
+2024-11-19 14:00:15,390 - INFO - Session logged: {'timestamp': '2024-11-19 14:00:15', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 291, 'success': True, 'error': None}
+2024-11-19 14:00:58,532 - INFO - ====== WebDriver manager ======
+2024-11-19 14:00:58,671 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:00:58,716 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:00:58,760 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 14:00:59,630 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 14:01:03,610 - INFO - Scrolled: 109px
+2024-11-19 14:01:06,713 - INFO - Toggled fullscreen
+2024-11-19 14:01:47,133 - INFO - Scrolled: 434px
+2024-11-19 14:02:24,634 - INFO - Scrolled: 399px
+2024-11-19 14:03:36,595 - INFO - Scrolled: 102px
+2024-11-19 14:04:08,819 - INFO - Scrolled: 142px
+2024-11-19 14:04:18,546 - INFO - Session logged: {'timestamp': '2024-11-19 14:04:18', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 156, 'success': True, 'error': None}
+2024-11-19 14:04:48,670 - INFO - ====== WebDriver manager ======
+2024-11-19 14:04:48,808 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:04:48,851 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:04:48,894 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 14:04:49,886 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 14:04:53,220 - INFO - Scrolled: 147px
+2024-11-19 14:05:31,105 - INFO - Scrolled: 115px
+2024-11-19 14:06:02,959 - INFO - Scrolled: 102px
+2024-11-19 14:07:04,501 - INFO - Scrolled: 390px
+2024-11-19 14:07:41,633 - INFO - Scrolled: 191px
+2024-11-19 14:08:20,780 - INFO - Scrolled: 474px
+2024-11-19 14:08:53,184 - INFO - Scrolled: 495px
+2024-11-19 14:09:03,863 - INFO - Session logged: {'timestamp': '2024-11-19 14:09:03', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 213, 'success': True, 'error': None}
+2024-11-19 14:09:56,981 - INFO - ====== WebDriver manager ======
+2024-11-19 14:09:57,123 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:09:57,175 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:09:57,216 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 14:09:57,963 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 14:10:00,511 - INFO - Scrolled: 308px
+2024-11-19 14:10:32,628 - INFO - Toggled fullscreen
+2024-11-19 14:11:12,061 - INFO - Scrolled: 335px
+2024-11-19 14:11:14,382 - INFO - Toggled fullscreen
+2024-11-19 14:12:30,881 - INFO - Toggled fullscreen
+2024-11-19 14:13:24,146 - INFO - Session logged: {'timestamp': '2024-11-19 14:13:24', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 163, 'success': True, 'error': None}
+2024-11-19 14:14:03,300 - INFO - ====== WebDriver manager ======
+2024-11-19 14:14:03,435 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:14:03,480 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:14:03,520 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 14:14:04,431 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 14:14:06,930 - INFO - Scrolled: 254px
+2024-11-19 14:14:39,672 - INFO - Scrolled: 438px
+2024-11-19 14:14:42,530 - INFO - Toggled fullscreen
+2024-11-19 14:15:20,709 - INFO - Scrolled: 313px
+2024-11-19 14:15:23,167 - INFO - Toggled fullscreen
+2024-11-19 14:16:00,960 - INFO - Scrolled: 346px
+2024-11-19 14:16:02,454 - INFO - Toggled fullscreen
+2024-11-19 14:16:39,259 - INFO - Scrolled: 333px
+2024-11-19 14:17:10,204 - INFO - Session logged: {'timestamp': '2024-11-19 14:17:10', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 144, 'success': True, 'error': None}
+2024-11-19 14:18:07,357 - INFO - ====== WebDriver manager ======
+2024-11-19 14:18:07,545 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:18:07,589 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:18:07,629 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 14:18:08,811 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 14:18:43,218 - INFO - Scrolled: 158px
+2024-11-19 14:19:14,818 - INFO - Scrolled: 470px
+2024-11-19 14:19:46,906 - INFO - Scrolled: 110px
+2024-11-19 14:20:18,327 - INFO - Scrolled: 203px
+2024-11-19 14:20:51,373 - INFO - Scrolled: 463px
+2024-11-19 14:21:58,810 - INFO - Scrolled: 490px
+2024-11-19 14:22:51,136 - INFO - Session logged: {'timestamp': '2024-11-19 14:22:51', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 259, 'success': True, 'error': None}
+2024-11-19 14:23:42,307 - INFO - ====== WebDriver manager ======
+2024-11-19 14:23:42,450 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:23:42,501 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:23:42,544 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 14:23:43,622 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 14:24:16,351 - INFO - Scrolled: 259px
+2024-11-19 14:24:18,362 - INFO - Toggled fullscreen
+2024-11-19 14:24:55,846 - INFO - Scrolled: 275px
+2024-11-19 14:25:28,578 - INFO - Scrolled: 137px
+2024-11-19 14:26:06,672 - INFO - Scrolled: 368px
+2024-11-19 14:26:44,312 - INFO - Scrolled: 172px
+2024-11-19 14:27:15,721 - INFO - Scrolled: 331px
+2024-11-19 14:27:53,578 - INFO - Scrolled: 259px
+2024-11-19 14:28:25,841 - INFO - Scrolled: 296px
+2024-11-19 14:28:56,863 - INFO - Session logged: {'timestamp': '2024-11-19 14:28:56', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 268, 'success': True, 'error': None}
+2024-11-19 14:29:34,981 - INFO - ====== WebDriver manager ======
+2024-11-19 14:29:35,125 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:29:35,170 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:29:35,214 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 14:29:35,978 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 14:29:40,644 - INFO - Scrolled: 144px
+2024-11-19 14:29:42,153 - INFO - Toggled fullscreen
+2024-11-19 14:30:26,041 - INFO - Scrolled: 144px
+2024-11-19 14:30:58,123 - INFO - Toggled fullscreen
+2024-11-19 14:31:35,262 - INFO - Scrolled: 403px
+2024-11-19 14:31:38,401 - INFO - Toggled fullscreen
+2024-11-19 14:32:15,746 - INFO - Scrolled: 188px
+2024-11-19 14:32:18,831 - INFO - Toggled fullscreen
+2024-11-19 14:32:57,066 - INFO - Toggled fullscreen
+2024-11-19 14:33:42,572 - INFO - Scrolled: 221px
+2024-11-19 14:34:13,855 - INFO - Scrolled: 452px
+2024-11-19 14:34:42,939 - INFO - Session logged: {'timestamp': '2024-11-19 14:34:42', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 236, 'success': True, 'error': None}
+2024-11-19 14:35:42,127 - INFO - ====== WebDriver manager ======
+2024-11-19 14:35:42,271 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:35:42,324 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:35:42,365 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 14:35:43,444 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 14:36:23,503 - INFO - Scrolled: 219px
+2024-11-19 14:36:25,101 - INFO - Toggled fullscreen
+2024-11-19 14:37:07,038 - INFO - Scrolled: 294px
+2024-11-19 14:37:45,001 - INFO - Scrolled: 498px
+2024-11-19 14:38:18,626 - INFO - Scrolled: 280px
+2024-11-19 14:38:23,448 - INFO - Session logged: {'timestamp': '2024-11-19 14:38:23', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 122, 'success': True, 'error': None}
+2024-11-19 14:38:59,574 - INFO - ====== WebDriver manager ======
+2024-11-19 14:38:59,717 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:38:59,772 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:38:59,813 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 14:39:00,668 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 14:39:32,678 - INFO - Scrolled: 424px
+2024-11-19 14:40:39,576 - INFO - Scrolled: 500px
+2024-11-19 14:41:45,985 - INFO - Scrolled: 302px
+2024-11-19 14:42:19,037 - INFO - Scrolled: 128px
+2024-11-19 14:42:51,149 - INFO - Scrolled: 140px
+2024-11-19 14:43:59,019 - INFO - Session logged: {'timestamp': '2024-11-19 14:43:59', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 269, 'success': True, 'error': None}
+2024-11-19 14:44:44,139 - INFO - ====== WebDriver manager ======
+2024-11-19 14:44:44,277 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:44:44,324 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:44:44,364 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 14:44:45,101 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 14:44:50,420 - INFO - Scrolled: 163px
+2024-11-19 14:45:27,648 - INFO - Scrolled: 430px
+2024-11-19 14:45:59,322 - INFO - Scrolled: 341px
+2024-11-19 14:46:36,232 - INFO - Scrolled: 212px
+2024-11-19 14:47:08,387 - INFO - Scrolled: 365px
+2024-11-19 14:47:45,959 - INFO - Scrolled: 298px
+2024-11-19 14:48:21,368 - INFO - Session logged: {'timestamp': '2024-11-19 14:48:21', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 179, 'success': True, 'error': None}
+2024-11-19 14:48:56,528 - INFO - ====== WebDriver manager ======
+2024-11-19 14:48:56,667 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:48:56,711 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:48:56,754 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 14:48:57,517 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 14:50:02,843 - INFO - Scrolled: 186px
+2024-11-19 14:50:06,044 - INFO - Toggled fullscreen
+2024-11-19 14:51:12,725 - INFO - Scrolled: 351px
+2024-11-19 14:51:43,893 - INFO - Scrolled: 102px
+2024-11-19 14:52:08,479 - INFO - Session logged: {'timestamp': '2024-11-19 14:52:08', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 172, 'success': True, 'error': None}
+2024-11-19 14:53:04,672 - INFO - ====== WebDriver manager ======
+2024-11-19 14:53:04,816 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:53:04,867 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:53:04,908 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 14:53:05,972 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 14:53:09,236 - INFO - Scrolled: 447px
+2024-11-19 14:53:12,389 - INFO - Toggled fullscreen
+2024-11-19 14:54:23,283 - INFO - Scrolled: 192px
+2024-11-19 14:55:00,476 - INFO - Toggled fullscreen
+2024-11-19 14:55:41,577 - INFO - Scrolled: 435px
+2024-11-19 14:56:16,226 - INFO - Session logged: {'timestamp': '2024-11-19 14:56:16', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 147, 'success': True, 'error': None}
+2024-11-19 14:56:53,383 - INFO - ====== WebDriver manager ======
+2024-11-19 14:56:53,531 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:56:53,574 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 14:56:53,618 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 14:56:54,466 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 14:56:57,445 - INFO - Scrolled: 258px
+2024-11-19 14:56:59,466 - INFO - Toggled fullscreen
+2024-11-19 14:57:37,173 - INFO - Scrolled: 430px
+2024-11-19 14:57:39,151 - INFO - Toggled fullscreen
+2024-11-19 14:58:19,838 - INFO - Scrolled: 343px
+2024-11-19 14:59:22,940 - INFO - Scrolled: 269px
+2024-11-19 15:00:00,168 - INFO - Scrolled: 128px
+2024-11-19 15:01:02,888 - INFO - Scrolled: 241px
+2024-11-19 15:01:23,194 - INFO - Session logged: {'timestamp': '2024-11-19 15:01:23', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 223, 'success': True, 'error': None}
+2024-11-19 15:01:55,387 - INFO - ====== WebDriver manager ======
+2024-11-19 15:01:55,539 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:01:55,592 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:01:55,627 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 15:01:56,755 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 15:02:31,617 - INFO - Scrolled: 272px
+2024-11-19 15:03:04,290 - INFO - Scrolled: 254px
+2024-11-19 15:03:42,195 - INFO - Scrolled: 139px
+2024-11-19 15:04:19,125 - INFO - Scrolled: 210px
+2024-11-19 15:04:51,651 - INFO - Session logged: {'timestamp': '2024-11-19 15:04:51', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 145, 'success': True, 'error': None}
+2024-11-19 15:05:41,791 - INFO - ====== WebDriver manager ======
+2024-11-19 15:05:41,929 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:05:41,977 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:05:42,021 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 15:05:42,801 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 15:05:45,582 - INFO - Scrolled: 295px
+2024-11-19 15:06:23,274 - INFO - Scrolled: 466px
+2024-11-19 15:06:55,576 - INFO - Scrolled: 218px
+2024-11-19 15:07:32,474 - INFO - Scrolled: 229px
+2024-11-19 15:08:05,152 - INFO - Scrolled: 321px
+2024-11-19 15:09:13,229 - INFO - Scrolled: 162px
+2024-11-19 15:10:26,271 - INFO - Scrolled: 187px
+2024-11-19 15:10:56,864 - INFO - Session logged: {'timestamp': '2024-11-19 15:10:56', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 264, 'success': True, 'error': None}
+2024-11-19 15:11:47,022 - INFO - ====== WebDriver manager ======
+2024-11-19 15:11:47,164 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:11:47,209 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:11:47,250 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 15:11:48,183 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 15:11:50,082 - INFO - Scrolled: 124px
+2024-11-19 15:12:21,514 - INFO - Scrolled: 299px
+2024-11-19 15:13:23,795 - INFO - Scrolled: 314px
+2024-11-19 15:13:26,113 - INFO - Toggled fullscreen
+2024-11-19 15:14:08,155 - INFO - Scrolled: 427px
+2024-11-19 15:14:11,033 - INFO - Toggled fullscreen
+2024-11-19 15:14:34,831 - INFO - Session logged: {'timestamp': '2024-11-19 15:14:34', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 135, 'success': True, 'error': None}
+2024-11-19 15:15:20,978 - INFO - ====== WebDriver manager ======
+2024-11-19 15:15:21,119 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:15:21,164 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:15:21,209 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 15:15:21,995 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 15:15:56,993 - INFO - Scrolled: 235px
+2024-11-19 15:16:29,635 - INFO - Scrolled: 449px
+2024-11-19 15:17:06,608 - INFO - Scrolled: 351px
+2024-11-19 15:18:45,658 - INFO - Scrolled: 282px
+2024-11-19 15:18:49,262 - INFO - Session logged: {'timestamp': '2024-11-19 15:18:49', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 181, 'success': True, 'error': None}
+2024-11-19 15:19:27,428 - INFO - ====== WebDriver manager ======
+2024-11-19 15:19:27,570 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:19:27,623 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:19:27,664 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 15:19:28,478 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 15:19:31,079 - INFO - Scrolled: 387px
+2024-11-19 15:20:08,248 - INFO - Scrolled: 459px
+2024-11-19 15:20:11,210 - INFO - Toggled fullscreen
+2024-11-19 15:21:56,111 - INFO - Scrolled: 113px
+2024-11-19 15:22:33,629 - INFO - Toggled fullscreen
+2024-11-19 15:23:02,362 - INFO - Session logged: {'timestamp': '2024-11-19 15:23:02', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 169, 'success': True, 'error': None}
+2024-11-19 15:23:59,590 - INFO - ====== WebDriver manager ======
+2024-11-19 15:23:59,731 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:23:59,779 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:23:59,821 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 15:24:00,882 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 15:24:04,504 - INFO - Scrolled: 365px
+2024-11-19 15:24:42,039 - INFO - Toggled fullscreen
+2024-11-19 15:25:48,505 - INFO - Scrolled: 431px
+2024-11-19 15:26:25,181 - INFO - Scrolled: 352px
+2024-11-19 15:27:38,784 - INFO - Scrolled: 358px
+2024-11-19 15:28:03,890 - INFO - Session logged: {'timestamp': '2024-11-19 15:28:03', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 198, 'success': True, 'error': None}
+2024-11-19 15:29:00,037 - INFO - ====== WebDriver manager ======
+2024-11-19 15:29:00,176 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:29:00,226 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:29:00,266 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 15:29:01,059 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 15:29:03,587 - INFO - Scrolled: 406px
+2024-11-19 15:29:06,423 - INFO - Toggled fullscreen
+2024-11-19 15:29:48,153 - INFO - Scrolled: 458px
+2024-11-19 15:30:26,503 - INFO - Scrolled: 432px
+2024-11-19 15:30:59,113 - INFO - Scrolled: 143px
+2024-11-19 15:32:07,410 - INFO - Scrolled: 437px
+2024-11-19 15:32:39,752 - INFO - Scrolled: 221px
+2024-11-19 15:33:11,675 - INFO - Scrolled: 330px
+2024-11-19 15:33:26,303 - INFO - Session logged: {'timestamp': '2024-11-19 15:33:26', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 218, 'success': True, 'error': None}
+2024-11-19 15:34:24,485 - INFO - ====== WebDriver manager ======
+2024-11-19 15:34:24,631 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:34:24,670 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:34:24,719 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 15:34:25,826 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 15:34:31,134 - INFO - Scrolled: 496px
+2024-11-19 15:35:02,808 - INFO - Scrolled: 470px
+2024-11-19 15:35:39,388 - INFO - Scrolled: 478px
+2024-11-19 15:36:17,815 - INFO - Scrolled: 280px
+2024-11-19 15:37:25,454 - INFO - Scrolled: 430px
+2024-11-19 15:40:16,718 - INFO - Session logged: {'timestamp': '2024-11-19 15:40:16', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 300, 'success': True, 'error': None}
+2024-11-19 15:41:14,861 - INFO - ====== WebDriver manager ======
+2024-11-19 15:41:15,000 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:41:15,047 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:41:15,088 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 15:41:15,842 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 15:41:18,327 - INFO - Scrolled: 266px
+2024-11-19 15:41:50,126 - INFO - Scrolled: 371px
+2024-11-19 15:42:22,796 - INFO - Scrolled: 109px
+2024-11-19 15:42:54,915 - INFO - Scrolled: 430px
+2024-11-19 15:43:26,413 - INFO - Scrolled: 420px
+2024-11-19 15:44:31,297 - INFO - Scrolled: 209px
+2024-11-19 15:45:04,243 - INFO - Scrolled: 218px
+2024-11-19 15:45:15,987 - INFO - Session logged: {'timestamp': '2024-11-19 15:45:15', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 214, 'success': True, 'error': None}
+2024-11-19 15:45:59,139 - INFO - ====== WebDriver manager ======
+2024-11-19 15:45:59,284 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:45:59,332 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:45:59,376 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 15:46:00,289 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 15:46:02,870 - INFO - Scrolled: 406px
+2024-11-19 15:46:05,624 - INFO - Toggled fullscreen
+2024-11-19 15:46:42,905 - INFO - Scrolled: 110px
+2024-11-19 15:46:45,915 - INFO - Toggled fullscreen
+2024-11-19 15:47:28,791 - INFO - Scrolled: 248px
+2024-11-19 15:48:01,682 - INFO - Scrolled: 129px
+2024-11-19 15:49:15,103 - INFO - Scrolled: 345px
+2024-11-19 15:49:17,399 - INFO - Toggled fullscreen
+2024-11-19 15:50:00,027 - INFO - Scrolled: 490px
+2024-11-19 15:50:02,411 - INFO - Toggled fullscreen
+2024-11-19 15:50:29,799 - INFO - Session logged: {'timestamp': '2024-11-19 15:50:29', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 194, 'success': True, 'error': None}
+2024-11-19 15:51:13,036 - INFO - ====== WebDriver manager ======
+2024-11-19 15:51:13,184 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:51:13,230 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:51:13,274 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 15:51:14,349 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 15:51:19,236 - INFO - Toggled fullscreen
+2024-11-19 15:51:55,227 - INFO - Scrolled: 469px
+2024-11-19 15:52:27,004 - INFO - Scrolled: 366px
+2024-11-19 15:53:04,435 - INFO - Scrolled: 281px
+2024-11-19 15:53:07,329 - INFO - Toggled fullscreen
+2024-11-19 15:53:52,471 - INFO - Scrolled: 242px
+2024-11-19 15:54:25,146 - INFO - Scrolled: 477px
+2024-11-19 15:54:26,848 - INFO - Toggled fullscreen
+2024-11-19 15:55:40,420 - INFO - Session logged: {'timestamp': '2024-11-19 15:55:40', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 209, 'success': True, 'error': None}
+2024-11-19 15:56:26,580 - INFO - ====== WebDriver manager ======
+2024-11-19 15:56:26,731 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:56:26,787 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 15:56:26,833 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 15:56:28,043 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 15:57:07,578 - INFO - Scrolled: 299px
+2024-11-19 15:57:45,755 - INFO - Scrolled: 279px
+2024-11-19 15:58:48,329 - INFO - Toggled fullscreen
+2024-11-19 15:59:32,405 - INFO - Scrolled: 450px
+2024-11-19 16:00:44,235 - INFO - Scrolled: 384px
+2024-11-19 16:01:17,062 - INFO - Scrolled: 131px
+2024-11-19 16:01:43,544 - INFO - Session logged: {'timestamp': '2024-11-19 16:01:43', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 265, 'success': True, 'error': None}
+2024-11-19 16:02:18,687 - INFO - ====== WebDriver manager ======
+2024-11-19 16:02:18,840 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:02:18,883 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:02:18,924 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 16:02:19,841 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 16:02:22,261 - INFO - Scrolled: 117px
+2024-11-19 16:02:25,386 - INFO - Toggled fullscreen
+2024-11-19 16:03:09,977 - INFO - Scrolled: 490px
+2024-11-19 16:04:18,273 - INFO - Scrolled: 310px
+2024-11-19 16:06:32,794 - INFO - Scrolled: 291px
+2024-11-19 16:06:54,818 - INFO - Session logged: {'timestamp': '2024-11-19 16:06:54', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 224, 'success': True, 'error': None}
+2024-11-19 16:07:42,999 - INFO - ====== WebDriver manager ======
+2024-11-19 16:07:43,142 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:07:43,187 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:07:43,228 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 16:07:44,272 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 16:08:54,694 - INFO - Scrolled: 180px
+2024-11-19 16:09:27,238 - INFO - Scrolled: 228px
+2024-11-19 16:10:05,050 - INFO - Scrolled: 144px
+2024-11-19 16:10:06,631 - INFO - Toggled fullscreen
+2024-11-19 16:10:46,671 - INFO - Scrolled: 136px
+2024-11-19 16:11:19,675 - INFO - Scrolled: 317px
+2024-11-19 16:11:34,566 - INFO - Session logged: {'timestamp': '2024-11-19 16:11:34', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 192, 'success': True, 'error': None}
+2024-11-19 16:12:33,690 - INFO - ====== WebDriver manager ======
+2024-11-19 16:12:33,839 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:12:33,886 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:12:33,928 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 16:12:34,917 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 16:12:37,032 - INFO - Scrolled: 368px
+2024-11-19 16:13:09,028 - INFO - Scrolled: 237px
+2024-11-19 16:13:11,870 - INFO - Toggled fullscreen
+2024-11-19 16:13:50,257 - INFO - Toggled fullscreen
+2024-11-19 16:14:25,917 - INFO - Scrolled: 305px
+2024-11-19 16:15:29,286 - INFO - Toggled fullscreen
+2024-11-19 16:16:06,562 - INFO - Scrolled: 175px
+2024-11-19 16:16:37,176 - INFO - Session logged: {'timestamp': '2024-11-19 16:16:37', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 209, 'success': True, 'error': None}
+2024-11-19 16:17:09,347 - INFO - ====== WebDriver manager ======
+2024-11-19 16:17:09,538 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:17:09,583 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:17:09,623 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 16:17:10,554 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 16:17:42,384 - INFO - Scrolled: 407px
+2024-11-19 16:17:44,377 - INFO - Toggled fullscreen
+2024-11-19 16:18:50,991 - INFO - Scrolled: 467px
+2024-11-19 16:18:54,037 - INFO - Toggled fullscreen
+2024-11-19 16:19:33,610 - INFO - Scrolled: 360px
+2024-11-19 16:19:35,870 - INFO - Toggled fullscreen
+2024-11-19 16:20:15,791 - INFO - Scrolled: 441px
+2024-11-19 16:21:01,711 - INFO - Session logged: {'timestamp': '2024-11-19 16:21:01', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 193, 'success': True, 'error': None}
+2024-11-19 16:21:50,867 - INFO - ====== WebDriver manager ======
+2024-11-19 16:21:51,015 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:21:51,065 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:21:51,109 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 16:21:52,039 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 16:21:55,089 - INFO - Scrolled: 491px
+2024-11-19 16:22:32,156 - INFO - Scrolled: 288px
+2024-11-19 16:23:34,976 - INFO - Scrolled: 260px
+2024-11-19 16:24:36,505 - INFO - Scrolled: 470px
+2024-11-19 16:25:13,370 - INFO - Scrolled: 261px
+2024-11-19 16:26:34,671 - INFO - Session logged: {'timestamp': '2024-11-19 16:26:34', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 247, 'success': True, 'error': None}
+2024-11-19 16:27:21,819 - INFO - ====== WebDriver manager ======
+2024-11-19 16:27:21,959 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:27:22,002 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:27:22,044 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 16:27:22,819 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 16:27:25,342 - INFO - Scrolled: 233px
+2024-11-19 16:27:57,534 - INFO - Scrolled: 391px
+2024-11-19 16:28:34,205 - INFO - Scrolled: 246px
+2024-11-19 16:29:40,935 - INFO - Toggled fullscreen
+2024-11-19 16:30:47,260 - INFO - Scrolled: 124px
+2024-11-19 16:31:23,599 - INFO - Scrolled: 403px
+2024-11-19 16:32:24,956 - INFO - Scrolled: 225px
+2024-11-19 16:32:49,913 - INFO - Session logged: {'timestamp': '2024-11-19 16:32:49', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 293, 'success': True, 'error': None}
+2024-11-19 16:33:20,110 - INFO - ====== WebDriver manager ======
+2024-11-19 16:33:20,524 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:33:20,581 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:33:20,623 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 16:33:21,886 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 16:33:26,625 - INFO - Scrolled: 291px
+2024-11-19 16:33:28,563 - INFO - Toggled fullscreen
+2024-11-19 16:34:04,747 - INFO - Scrolled: 363px
+2024-11-19 16:35:06,642 - INFO - Scrolled: 104px
+2024-11-19 16:35:43,972 - INFO - Scrolled: 365px
+2024-11-19 16:36:55,979 - INFO - Session logged: {'timestamp': '2024-11-19 16:36:55', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 190, 'success': True, 'error': None}
+2024-11-19 16:37:29,209 - INFO - ====== WebDriver manager ======
+2024-11-19 16:37:29,362 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:37:29,416 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:37:29,456 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 16:37:30,677 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 16:37:35,339 - INFO - Scrolled: 299px
+2024-11-19 16:37:37,744 - INFO - Toggled fullscreen
+2024-11-19 16:38:15,182 - INFO - Scrolled: 144px
+2024-11-19 16:38:46,595 - INFO - Scrolled: 342px
+2024-11-19 16:38:48,174 - INFO - Toggled fullscreen
+2024-11-19 16:39:28,066 - INFO - Scrolled: 429px
+2024-11-19 16:40:35,084 - INFO - Scrolled: 138px
+2024-11-19 16:40:41,956 - INFO - Session logged: {'timestamp': '2024-11-19 16:40:41', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 154, 'success': True, 'error': None}
+2024-11-19 16:41:42,109 - INFO - ====== WebDriver manager ======
+2024-11-19 16:41:42,625 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:41:42,678 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:41:42,721 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 16:41:43,936 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 16:41:46,423 - INFO - Scrolled: 325px
+2024-11-19 16:42:24,704 - INFO - Scrolled: 360px
+2024-11-19 16:42:57,613 - INFO - Scrolled: 279px
+2024-11-19 16:43:58,874 - INFO - Scrolled: 126px
+2024-11-19 16:44:31,434 - INFO - Scrolled: 360px
+2024-11-19 16:45:04,466 - INFO - Scrolled: 284px
+2024-11-19 16:45:36,375 - INFO - Session logged: {'timestamp': '2024-11-19 16:45:36', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 208, 'success': True, 'error': None}
+2024-11-19 16:46:27,496 - INFO - ====== WebDriver manager ======
+2024-11-19 16:46:27,631 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:46:27,677 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:46:27,715 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 16:46:28,473 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 16:47:01,659 - INFO - Scrolled: 312px
+2024-11-19 16:47:39,403 - INFO - Scrolled: 291px
+2024-11-19 16:48:11,580 - INFO - Scrolled: 467px
+2024-11-19 16:48:50,652 - INFO - Scrolled: 178px
+2024-11-19 16:49:22,769 - INFO - Scrolled: 466px
+2024-11-19 16:50:11,347 - INFO - Session logged: {'timestamp': '2024-11-19 16:50:11', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 191, 'success': True, 'error': None}
+2024-11-19 16:50:58,485 - INFO - ====== WebDriver manager ======
+2024-11-19 16:50:58,629 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:50:58,675 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:50:58,717 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 16:50:59,734 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 16:51:32,781 - INFO - Toggled fullscreen
+2024-11-19 16:52:15,761 - INFO - Scrolled: 186px
+2024-11-19 16:52:18,793 - INFO - Toggled fullscreen
+2024-11-19 16:53:26,505 - INFO - Scrolled: 377px
+2024-11-19 16:53:27,690 - INFO - Toggled fullscreen
+2024-11-19 16:54:12,052 - INFO - Scrolled: 327px
+2024-11-19 16:54:49,437 - INFO - Scrolled: 381px
+2024-11-19 16:55:12,060 - INFO - Session logged: {'timestamp': '2024-11-19 16:55:12', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 200, 'success': True, 'error': None}
+2024-11-19 16:56:08,219 - INFO - ====== WebDriver manager ======
+2024-11-19 16:56:08,361 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:56:08,414 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 16:56:08,454 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 16:56:09,370 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 16:56:42,019 - INFO - Scrolled: 242px
+2024-11-19 16:57:54,062 - INFO - Scrolled: 156px
+2024-11-19 16:57:55,387 - INFO - Toggled fullscreen
+2024-11-19 16:58:31,329 - INFO - Toggled fullscreen
+2024-11-19 16:59:10,342 - INFO - Scrolled: 372px
+2024-11-19 16:59:43,640 - INFO - Toggled fullscreen
+2024-11-19 17:00:24,941 - INFO - Scrolled: 446px
+2024-11-19 17:01:03,176 - INFO - Scrolled: 343px
+2024-11-19 17:01:35,921 - INFO - Scrolled: 335px
+2024-11-19 17:01:46,961 - INFO - Session logged: {'timestamp': '2024-11-19 17:01:46', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 278, 'success': True, 'error': None}
+2024-11-19 17:02:44,096 - INFO - ====== WebDriver manager ======
+2024-11-19 17:02:44,265 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 17:02:44,312 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 17:02:44,352 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 17:02:45,301 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 17:02:47,769 - INFO - Scrolled: 235px
+2024-11-19 17:03:20,881 - INFO - Scrolled: 173px
+2024-11-19 17:03:52,808 - INFO - Scrolled: 447px
+2024-11-19 17:04:29,238 - INFO - Scrolled: 414px
+2024-11-19 17:05:01,949 - INFO - Scrolled: 186px
+2024-11-19 17:05:39,499 - INFO - Scrolled: 368px
+2024-11-19 17:06:11,251 - INFO - Scrolled: 408px
+2024-11-19 17:06:48,003 - INFO - Scrolled: 491px
+2024-11-19 17:07:03,888 - INFO - Session logged: {'timestamp': '2024-11-19 17:07:03', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 217, 'success': True, 'error': None}
+2024-11-19 17:08:02,029 - INFO - ====== WebDriver manager ======
+2024-11-19 17:08:02,168 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 17:08:02,213 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 17:08:02,255 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 17:08:03,027 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 17:08:05,622 - INFO - Scrolled: 318px
+2024-11-19 17:08:07,952 - INFO - Toggled fullscreen
+2024-11-19 17:08:25,475 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10249dbe0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d57da07b627445a440f75bbdeb123aae
+2024-11-19 17:08:25,476 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102395e20>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d57da07b627445a440f75bbdeb123aae
+2024-11-19 17:08:25,477 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10249dcd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d57da07b627445a440f75bbdeb123aae
+2024-11-19 17:08:25,481 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10249fa00>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d57da07b627445a440f75bbdeb123aae
+2024-11-19 17:08:25,482 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10249fb80>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d57da07b627445a440f75bbdeb123aae
+2024-11-19 17:08:25,482 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10249fcd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d57da07b627445a440f75bbdeb123aae

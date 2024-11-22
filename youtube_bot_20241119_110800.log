@@ -1,0 +1,24 @@
+2024-11-19 11:08:00,016 - INFO - ====== WebDriver manager ======
+2024-11-19 11:08:00,144 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:08:00,194 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:08:00,237 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 11:08:01,420 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 11:08:03,836 - INFO - Scrolled: 265px
+2024-11-19 11:08:41,843 - INFO - Scrolled: 135px
+2024-11-19 11:09:19,415 - INFO - Toggled fullscreen
+2024-11-19 11:10:00,385 - INFO - Scrolled: 295px
+2024-11-19 11:10:02,038 - INFO - Toggled fullscreen
+2024-11-19 11:11:19,195 - INFO - Scrolled: 355px
+2024-11-19 11:11:20,886 - INFO - Toggled fullscreen
+2024-11-19 11:11:59,897 - INFO - Scrolled: 336px
+2024-11-19 11:12:15,971 - INFO - Session logged: {'timestamp': '2024-11-19 11:12:15', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 195, 'success': True, 'error': None}
+2024-11-19 11:12:15,971 - INFO - Waiting 55 seconds before next view
+2024-11-19 11:13:10,973 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 11:13:14,386 - INFO - Toggled fullscreen
+2024-11-19 11:13:54,177 - INFO - Scrolled: 500px
+2024-11-19 11:14:55,824 - INFO - Scrolled: 500px
+2024-11-19 11:15:27,972 - INFO - Toggled fullscreen
+2024-11-19 11:16:08,639 - INFO - Scrolled: 247px
+2024-11-19 11:16:23,329 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1062395e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8c5c944048bbd58984e11ec302675621
+2024-11-19 11:16:23,332 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106239f70>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8c5c944048bbd58984e11ec302675621
+2024-11-19 11:16:23,333 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106535100>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8c5c944048bbd58984e11ec302675621

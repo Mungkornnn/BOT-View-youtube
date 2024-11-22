@@ -1,0 +1,13 @@
+{
+    "total_views": 0,
+    "total_time": 0,
+    "successful_views": 0,
+    "failed_views": 0,
+    "interactions": {
+        "likes": 0,
+        "fullscreen": 1,
+        "speed_changes": 0,
+        "scrolls": 1
+    },
+    "sessions": []
+}

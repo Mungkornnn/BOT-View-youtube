@@ -1,0 +1,31 @@
+2024-11-19 11:16:43,420 - INFO - ====== WebDriver manager ======
+2024-11-19 11:16:43,542 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:16:43,596 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 11:16:43,645 - INFO - Driver [/Users/mungkorn/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 11:16:44,819 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 11:16:49,239 - INFO - Scrolled: 374px
+2024-11-19 11:17:27,327 - INFO - Scrolled: 350px
+2024-11-19 11:18:29,489 - INFO - Scrolled: 304px
+2024-11-19 11:19:01,117 - INFO - Scrolled: 371px
+2024-11-19 11:19:33,237 - INFO - Scrolled: 438px
+2024-11-19 11:20:40,151 - INFO - Scrolled: 161px
+2024-11-19 11:21:11,424 - INFO - Scrolled: 471px
+2024-11-19 11:21:43,987 - INFO - Scrolled: 357px
+2024-11-19 11:22:01,216 - INFO - Session logged: {'timestamp': '2024-11-19 11:22:01', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 286, 'success': True, 'error': None}
+2024-11-19 11:22:01,216 - INFO - Waiting 49 seconds before next view
+2024-11-19 11:22:50,222 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 11:23:21,759 - INFO - Scrolled: 468px
+2024-11-19 11:23:24,408 - INFO - Toggled fullscreen
+2024-11-19 11:24:06,754 - INFO - Scrolled: 459px
+2024-11-19 11:24:08,435 - INFO - Toggled fullscreen
+2024-11-19 11:24:46,790 - INFO - Scrolled: 470px
+2024-11-19 11:25:24,626 - INFO - Scrolled: 150px
+2024-11-19 11:25:57,121 - INFO - Toggled fullscreen
+2024-11-19 11:26:35,477 - INFO - Scrolled: 177px
+2024-11-19 11:27:13,250 - INFO - Toggled fullscreen
+2024-11-19 11:27:30,185 - INFO - Session logged: {'timestamp': '2024-11-19 11:27:30', 'video_url': 'https://www.youtube.com/watch?v=a-C1WpTeVTI', 'watch_time': 214, 'success': True, 'error': None}
+2024-11-19 11:27:30,185 - INFO - Waiting 50 seconds before next view
+2024-11-19 11:28:20,169 - INFO - Starting to watch video: https://www.youtube.com/watch?v=a-C1WpTeVTI
+2024-11-19 11:28:20,741 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10214f460>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5d7b1e7c7174673ca071fe071d4da5ac
+2024-11-19 11:28:20,742 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10214f5b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5d7b1e7c7174673ca071fe071d4da5ac
+2024-11-19 11:28:20,742 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10214f700>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5d7b1e7c7174673ca071fe071d4da5ac
